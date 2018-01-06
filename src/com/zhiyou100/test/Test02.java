@@ -12,6 +12,7 @@ public class Test02 {
 	private void mian() {
 		// TODO Auto-generated method stub
 		System.out.println("新建文件test02");
+		System.out.println("新建文件test02");
 	}
 
 }
